@@ -1,6 +1,6 @@
-# encryption SHC
+# encryption BZEXE/BZIP2
 
-<li>Install SHC</li>
+<li>Install BZEXE/BZIP2</li>
 <pre><code>sudo apt-get update</code></pre>
 <pre><code>sudo apt install build-essential</code></pre>
 <pre><code>sudo apt-get install -y jq</code></pre>
@@ -10,7 +10,7 @@
 <li>Jalankan Perintah</li>
 <pre><code>./enc.sh</code></pre>
 
-Encryption menggunakan SHC tanpa ribet harus encrypt satu persatu ini tools untuk encrypt sekaligus berapapun yang mau di encrypt
+Encryption menggunakan BZEXE/BZIP2 tanpa ribet harus encrypt satu persatu ini tools untuk encrypt sekaligus berapapun yang mau di encrypt
 
 <li>Penting!</li>
 Salin folder autoscript nya ke dalam folder root vps lalu ketik . enc.sh nama_folder
